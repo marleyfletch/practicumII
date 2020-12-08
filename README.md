@@ -25,8 +25,8 @@ Additional Notes:
 
 The dataset can be retrieved from the following location:
 
-https://files.consumerfinance.gov/hmda-historic-loan-data/hmda_2017_ca_all-records_labels.zip
-https://files.consumerfinance.gov/hmda-historic-loan-data/hmda_2016_ca_all-records_labels.zip
+https://files.consumerfinance.gov/hmda-historic-loan-data/hmda_2017_ca_all-records_labels.zip; 
+https://files.consumerfinance.gov/hmda-historic-loan-data/hmda_2016_ca_all-records_labels.zip;
 https://files.consumerfinance.gov/hmda-historic-loan-data/hmda_2015_ca_all-records_labels.zip
 
 Data Dictionary
