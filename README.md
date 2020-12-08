@@ -20,14 +20,10 @@ References
 About the Data
 The Home Mortgage Disclosure Act (HMDA) is a federal statute that requires financial institutions to maintain and disclose loan-level mortgage originations data for various federally mandated purposes. The dataset contains non-personally identifiable applicant and borrower data for each mortgage originated and sold to a government service agency (GSA). The dataset is traditionally used for policy making, pattern and practice evaluation, and other mandated purposes such as monitoring lending practices by financial institutions to track issues related to racial disparities in consumer lending.
 
-The Home Mortgage Disclosure Act (HMDA) dataset
-Additional Notes:
+The Home Mortgage Disclosure Act (HMDA) dataset used in this project can be retrieved from the following location:
 
-The dataset can be retrieved from the following location:
+2017: https://files.consumerfinance.gov/hmda-historic-loan-data/hmda_2017_ca_all-records_labels.zip; 
+2016: https://files.consumerfinance.gov/hmda-historic-loan-data/hmda_2016_ca_all-records_labels.zip;
+2015: https://files.consumerfinance.gov/hmda-historic-loan-data/hmda_2015_ca_all-records_labels.zip
 
-https://files.consumerfinance.gov/hmda-historic-loan-data/hmda_2017_ca_all-records_labels.zip; 
-https://files.consumerfinance.gov/hmda-historic-loan-data/hmda_2016_ca_all-records_labels.zip;
-https://files.consumerfinance.gov/hmda-historic-loan-data/hmda_2015_ca_all-records_labels.zip
-
-Data Dictionary
-https://files.consumerfinance.gov/hmda-historic-data-dictionaries/lar_record_codes.pdf
+Data Dictionary: https://files.consumerfinance.gov/hmda-historic-data-dictionaries/lar_record_codes.pdf
